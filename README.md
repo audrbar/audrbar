@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🌱 I’m currently learning JavaScript.
+### Hi there 👋 🌱 I’m currently learning JavaScript.
 <!--
 **audrbar/audrbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
