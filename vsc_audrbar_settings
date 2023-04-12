@@ -1,0 +1,58 @@
+{
+    "breadcrumbs.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "all",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.commandCenter": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.confirmSync": false,
+    "workbench.editor.enablePreview": false,
+    "explorer.compactFolders": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.minimap.enabled": false,
+        "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.tslint": true,
+        "source.fixAll.stylelint": true
+    },
+    "editor.rulers": [120],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "eslint.run": "onSave",
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "npm.keybindingsChangedWarningShown": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.untitled.hint": "hidden",
+    // "workbench.colorTheme": "Default",
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4081"
+    },
+}
