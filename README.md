@@ -1,4 +1,4 @@
-### Hi there 👋 🌱 I’m currently learning JavaScript (ReactJS, NextJS).
+### Hi there 👋 🌱 I’m currently learning Python after few yaers spent on JavaScript (ReactJS, NextJS) only.
 <!--
 **audrbar/audrbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
