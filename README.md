@@ -1,4 +1,4 @@
-### Hi there 👋 🌱 I’m currently learning Python after a few years spent on JavaScript (ReactJS, NextJS) only.
+### Hi there 👋 🌱 I’m currently interested in Machine Learning learning after a few years spent on JavaScript (ReactJS, NextJS) and Python.
 <!--
 **audrbar/audrbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
