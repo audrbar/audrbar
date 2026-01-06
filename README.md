@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Audrius.### I am currently focused on the synthesis of Machine Learning and Full-Stack engineering. Leveraging five years of experience in JavaScript ecosystem (ReactJS, NextJS) and the Python, I am now architecting intelligent, agent-driven systems and scalable AI applications.
+**Hi there 👋 I’m Audrius.** I am currently focused on the synthesis of Machine Learning and Full-Stack engineering. Leveraging five years of experience in JavaScript ecosystem (ReactJS, NextJS) and the Python, I am now architecting intelligent, agent-driven systems and scalable AI applications.
 <!--
 **audrbar/audrbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
