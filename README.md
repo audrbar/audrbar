@@ -1,4 +1,4 @@
-### Hi there 👋 🌱 I’m currently interested in Machine Learning learning after a few years spent on JavaScript (ReactJS, NextJS) and Python.
+### Hi there 👋 I’m Audrius. I am currently focused on the synthesis of Machine Learning and Full-Stack engineering. Leveraging five years of experience in Python and the JavaScript ecosystem (ReactJS, NextJS), I am now architecting intelligent, agent-driven systems and scalable AI applications.
 <!--
 **audrbar/audrbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
